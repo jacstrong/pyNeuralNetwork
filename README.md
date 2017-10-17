@@ -1,3 +1,6 @@
+#This is in no way complete!
+This guy needs some love, don't judge please.
+
 # pyNeuralNetwork
 
 Ok so not sure what to put here right now.
