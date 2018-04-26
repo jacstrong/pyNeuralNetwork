@@ -1,4 +1,5 @@
-#This is in no way complete!
+# This is in no way complete!
+
 This guy needs some love, don't judge please.
 
 # pyNeuralNetwork
@@ -6,9 +7,9 @@ This guy needs some love, don't judge please.
 Ok so not sure what to put here right now.
 
 This is my first ever:
-*Python project
-*Neural Network
-*Git on windows
+* Python project
+* Neural Network
+* Git on windows
 
 Lots of firsts.
 
@@ -18,6 +19,8 @@ Lots of firsts.
 \         |  \   \  \   \     \
  \   |\  |   \   \  \   \     \
   \_/  _|    \___\  \___\     \
+(bad ascii art...)
 
+Ok I tried
 
-  Ok I tried
+(FYI I had no idea what I was doing when I started this...)
